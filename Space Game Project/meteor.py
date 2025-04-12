@@ -1,7 +1,5 @@
 import random
-import pygame
-#import pgzrun
-#import pgzhelper
+
 # Ekran boyutu
 WIDTH = 400
 HEIGHT = 500
