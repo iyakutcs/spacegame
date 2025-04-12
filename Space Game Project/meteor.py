@@ -7,7 +7,7 @@ HEIGHT = 500
 # Oyuncu (uzay gemisi)
 spaceship = Actor("spaceship")
 spaceship.midbottom = (WIDTH // 2, HEIGHT - 10)
-#spaceship.scale = 0.02  # Half size
+
 # Meteorlar listesi
 meteors = []
 
